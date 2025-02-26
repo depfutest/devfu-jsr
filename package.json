@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@std/http": "npm:@jsr/std__http@^1.0.12"
+    "@std/http": "npm:@jsr/std__http@^1.0.13"
   }
 }
