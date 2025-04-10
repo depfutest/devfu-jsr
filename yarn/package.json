@@ -1,0 +1,9 @@
+{
+  "name": "yarn_pkg_alias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@std/http": "npm:@jsr/std__http@^1.0.12"
+  }
+}
